@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/api-boss/api-boss.iml" filepath="$PROJECT_DIR$/online-taxi-public/api-boss/api-boss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/api-driver/api-driver.iml" filepath="$PROJECT_DIR$/online-taxi-public/api-driver/api-driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/api-passenger/api-passenger.iml" filepath="$PROJECT_DIR$/online-taxi-public/api-passenger/api-passenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/internal-common/internal-common.iml" filepath="$PROJECT_DIR$/online-taxi-public/internal-common/internal-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/online-taxi-2022-public-master.iml" filepath="$PROJECT_DIR$/.idea/online-taxi-2022-public-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/online-taxi-public.iml" filepath="$PROJECT_DIR$/online-taxi-public/online-taxi-public.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/serice-map/serice-map.iml" filepath="$PROJECT_DIR$/online-taxi-public/serice-map/serice-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/service-driver-user/service-driver-user.iml" filepath="$PROJECT_DIR$/online-taxi-public/service-driver-user/service-driver-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/service-order/service-order.iml" filepath="$PROJECT_DIR$/online-taxi-public/service-order/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/service-passenger-user/service-passenger-user.iml" filepath="$PROJECT_DIR$/online-taxi-public/service-passenger-user/service-passenger-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-taxi-public/service-price/service-price.iml" filepath="$PROJECT_DIR$/online-taxi-public/service-price/service-price.iml" />
+    </modules>
+  </component>
+</project>
